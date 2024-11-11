@@ -103,7 +103,7 @@ Open any browser and type
    docker pull retroandre/python-helloworld:latest
    ```
 
-    ```sh
+```sh
    docker build -t <any-name> .
    ```
 
